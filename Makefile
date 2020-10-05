@@ -1,2 +1,2 @@
 build:
-	GOPROXY=https://gocenter.io GOARCH="amd64" GOOS="linux" go build
+	GOARCH="arm" GOOS="linux" go build
